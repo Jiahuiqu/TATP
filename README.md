@@ -19,16 +19,15 @@ The Huggingface install follow [Transformer](https://huggingface.co/docs/transfo
 
 2. Organize dataset structure:
 ```txt
-datasets/
-├── Houston/
+data_2013/
 │   ├── HSI.mat
 │   ├── LiDAR.mat         
 │   ├── All_label.mat
-├── Trento/
+data_muufl/
 │   ├── HSI.mat
 │   ├── LiDAR.mat         
 │   ├── All_label.mat
-├── Augsburg/
+data_augsburg/
 │   ├── HSI.mat
 │   ├── LiDAR.mat     
 │   ├── SAR.mat       
