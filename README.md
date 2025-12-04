@@ -3,7 +3,7 @@ T-APT: Text-Guided Modality-Aware Prompt Tuning for Arbitrary Multimodal Remote 
 
 *Qinghao Gao, Jiahui Qu, Wenqian Dong*
 
-![Teaser Image](pic/framework.jpg)    
+![Teaser Image](pic/framework.png)    
 
 ## Environment Setup
 
